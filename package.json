@@ -74,7 +74,7 @@
     "egg-sequelizer": "^1.0.4",
     "egg-static": "^2.1.0",
     "egg-view-nunjucks": "^2.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "md5": "^2.2.1",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
